@@ -2,4 +2,4 @@
 
 ### Задание 1
 
-![Скриншот-1](https://github.com/NatoshFehn/hw-monitoring-01/blob/main/hw-monitoring-01/Снимок1.png)
+![Скриншот-1](https://github.com/NatoshFehn/hw-monitoring-01/blob/main/Снимок1.jpg)
